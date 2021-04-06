@@ -2,6 +2,8 @@
 
 A new Flutter project for ffi test.
 
+[build library project](git@github.com:hwh97/lib_build_script.git)
+
 ## Getting Started
 
 This project is a starting point for a Flutter
